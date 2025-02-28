@@ -1,5 +1,4 @@
-# Venum
-Venum Bypass | TOS
+# Venum Bypass | TOS
 
 - Selling or sharing your license will get you banned.
 - Trying to harm us (even if you're a little bit suspicious) in any way will get you banned.
